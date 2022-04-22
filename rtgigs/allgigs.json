@@ -34,7 +34,7 @@
   {
     "link": "",
     "actualDate": { "seconds": 1647039600, "nanoseconds": 0 },
-    "location": "Musigburg, Aarau",
+    "location": "Musigburg, Aarburg",
     "date": "12-03-2022",
     "name": "",
     "public": true
@@ -53,14 +53,6 @@
     "name": "",
     "actualDate": { "seconds": 1627077600, "nanoseconds": 0 },
     "location": "Openair, Schmiedrued",
-    "public": true
-  },
-  {
-    "actualDate": { "seconds": 1603839600, "nanoseconds": 0 },
-    "name": "",
-    "link": "",
-    "location": "Werkk, Baden",
-    "date": "28-10-2020",
     "public": true
   },
   {
@@ -145,7 +137,7 @@
   },
   {
     "name": "",
-    "location": "Cvetli&#269;arna, Ljubljana (SI)",
+    "location": "Cvetličarna, Ljubljana (SI)",
     "date": "08-03-2019",
     "link": "",
     "actualDate": { "seconds": 1551999600, "nanoseconds": 0 },
