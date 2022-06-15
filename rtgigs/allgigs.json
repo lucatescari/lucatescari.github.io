@@ -1,18 +1,18 @@
 [
   {
-    "location": "Werkk, Baden",
-    "date": "27-10-2022",
-    "actualDate": { "seconds": 1666821600, "nanoseconds": 0 },
-    "name": "",
-    "link": "",
-    "public": false
-  },
-  {
     "location": "Mettlerfield, Mühlau",
     "name": "",
     "link": "https://mettlerfield.ch/buy-tickets/",
     "date": "25-06-2022",
     "actualDate": { "seconds": 1656108000, "nanoseconds": 0 },
+    "public": true
+  },
+  {
+    "location": "Greifensee",
+    "name": "Openair am Greifensee",
+    "link": "https://www.openairgreifensee.ch/tickets",
+    "date": "03-09-2022",
+    "actualDate": { "seconds": 1662242383, "nanoseconds": 0 },
     "public": true
   },
   {
