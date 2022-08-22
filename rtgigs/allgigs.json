@@ -1,5 +1,13 @@
 [
   {
+    "location": "Musikzentrum Sedel, Luzern",
+    "name": "Eat N' Rock Luzern",
+    "link": "https://www.girus.ch/event-details/eat-n-rock-festival",
+    "date": "21-10-2022",
+    "actualDate": { "seconds": 1666306800, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Mettlerfield, Mühlau",
     "name": "",
     "link": "https://mettlerfield.ch/buy-tickets/",
