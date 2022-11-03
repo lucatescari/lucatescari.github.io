@@ -1,10 +1,18 @@
 [
   {
-    "location": "Musikzentrum Sedel, Luzern",
-    "name": "Eat N' Rock Luzern",
+    "location": "Schützenhalle Haffen DE",
+    "name": "PMP XMas Bash, Haffen DE",
     "link": "https://www.girus.ch/event-details/eat-n-rock-festival",
     "date": "21-10-2022",
     "actualDate": { "seconds": 1666306800, "nanoseconds": 0 },
+    "public": true
+  },
+  {
+    "location": "Musikzentrum Sedel, Luzern",
+    "name": "Eat N' Rock Luzern",
+    "link": "",
+    "date": "28-12-2022",
+    "actualDate": { "seconds": 1672185600, "nanoseconds": 0 },
     "public": true
   },
   {
