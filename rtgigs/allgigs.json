@@ -1,11 +1,19 @@
 [
   {
+    "location": "Althörnli Openair",
+    "name": "",
+    "link": "",
+    "date": "01-07-2023",
+    "actualDate": { "seconds": 1688234400, "nanoseconds": 0 },
+    "public": false
+  },
+  {
     "location": "Flösserplatz Aarau",
     "name": "Punk-Abend Flösserplatz Aarau",
     "link": "",
     "date": "13-05-2023",
     "actualDate": { "seconds": 1684000800, "nanoseconds": 0 },
-    "public": true
+    "public": false
   },
   {
     "location": "KiFF Aarau",
@@ -13,7 +21,7 @@
     "link": "",
     "date": "20-03-2023",
     "actualDate": { "seconds": 1679338800, "nanoseconds": 0 },
-    "public": true
+    "public": false
   },
   {
     "location": "Schützenhalle Haffen DE",
