@@ -1,5 +1,13 @@
 [
   {
+    "location": "Old Capitol",
+    "name": "",
+    "link": "https://oldcapitol.ch/events/talco",
+    "date": "20-10-2023",
+    "actualDate": { "seconds": 1697752805, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Althörnli Openair",
     "name": "",
     "link": "https://xn--althrnliopenair-ctb.ch/",
