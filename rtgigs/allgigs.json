@@ -1,7 +1,7 @@
 [
   {
     "location": "Kultur im Kammgarn, Support Talco",
-    "name": "Kultur im Kammgarn, Schaffhausen",
+    "name": "Kultur im Kammgarn mit Talco",
     "link": "https://kammgarn.ch/event/talco-2/",
     "date": "19-10-2023",
     "actualDate": { "seconds": 1697670000, "nanoseconds": 0 },
@@ -9,7 +9,7 @@
   },
   {
     "location": "Old Capitol Langenthal, Support Talco",
-    "name": "Old Capitol Langenthal",
+    "name": "Old Capitol Langenthal mit Talco",
     "link": "https://oldcapitol.ch/events/talco",
     "date": "20-10-2023",
     "actualDate": { "seconds": 1697752805, "nanoseconds": 0 },
