@@ -1,5 +1,13 @@
 [
   {
+    "location": "Goldingen SG",
+    "name": "Garden Openair",
+    "link": "https://garden-openair.ch/",
+    "date": "27-07-2024",
+    "actualDate": { "seconds": 1722034800, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Gipf- Oberfrick",
     "name": "Sichtfeld Openair",
     "link": "https://www.sichtfeldopenair.ch/tickets",
