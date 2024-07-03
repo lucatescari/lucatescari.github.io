@@ -1,5 +1,13 @@
 [
   {
+    "location": "Zürich ZH",
+    "name": "Support Mad Caddies Dynamo",
+    "link": "https://www.dynamo.ch/veranstaltung/mad-caddies",
+    "date": "28-07-2024",
+    "actualDate": { "seconds": 1722121200, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Goldingen SG",
     "name": "Garden Openair",
     "link": "https://garden-openair.ch/",
