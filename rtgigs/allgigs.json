@@ -1,5 +1,13 @@
 [
   {
+    "location": "Lauerz",
+    "name": "OMiTAS Festival",
+    "link": "https://www.omitas.ch/",
+    "date": "30-08-2025",
+    "actualDate": { "seconds": 1756504800, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Zürich ZH",
     "name": "Support Mad Caddies Dynamo",
     "link": "https://www.dynamo.ch/veranstaltung/mad-caddies",
