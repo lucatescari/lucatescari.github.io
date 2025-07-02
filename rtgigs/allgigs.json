@@ -1,5 +1,13 @@
 [
   {
+    "location": "Buchs SG",
+    "name": "Krempel Buchserfest",
+    "link": "",
+    "date": "22-08-2025",
+    "actualDate": { "seconds": 1755813600, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Lauerz",
     "name": "OMiTAS Festival",
     "link": "https://www.omitas.ch/",
