@@ -1,5 +1,13 @@
 [
   {
+    "location": "Davos",
+    "name": "25 Jahre Box Davos",
+    "link": "https://www.boxdavos.ch/konzerte.html?fbclid=PAQ0xDSwLjcWdleHRuA2FlbQIxMQABp61gWi15ggNb13jaA4nMfV6o_yN_hEM9JMKZSikF4G5VjE-Ow7--dpTVxbSI_aem__2U-rOS2YXyPbGGczpkcig",
+    "date": "05-09-2025",
+    "actualDate": { "seconds": 1757023201, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Buchs SG",
     "name": "Krempel Buchserfest",
     "link": "",
