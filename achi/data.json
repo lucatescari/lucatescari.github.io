@@ -1,0 +1,121 @@
+{
+    "menuTypes": {
+        "menu1": {
+            "label": "Menu 1",
+            "price": 14
+        },
+        "menu2": {
+            "label": "Menu 2",
+            "price": 17
+        },
+        "menu3": {
+            "label": "Menu 3",
+            "price": 21
+        }
+    },
+    "days": [
+        {
+            "day": "monday",
+            "label": "Monday",
+            "menus": [
+                {
+                    "type": "menu1",
+                    "title": "Poulet-Geschnetzeltes mit rotem Thai-Curry und Kokosmilch-Sauce."
+                },
+                {
+                    "type": "menu2",
+                    "title": "Rindfleisch-Geschnetzelt an schwarzer Pfeffersauce."
+                },
+                {
+                    "type": "menu3",
+                    "title": "Knusprige grillierte Ente an hausgemachter süss-sauer Sauce."
+                }
+            ]
+        },
+        {
+            "day": "tuesday",
+            "label": "Tuesday",
+            "menus": [
+                {
+                    "type": "menu1",
+                    "title": null
+                },
+                {
+                    "type": "menu2",
+                    "title": null
+                },
+                {
+                    "type": "menu3",
+                    "title": null
+                }
+            ]
+        },
+        {
+            "day": "wednesday",
+            "label": "Wednesday",
+            "menus": [
+                {
+                    "type": "menu1",
+                    "title": "Poulet-Geschnetzeltes sautiert mit Erdnuss-Satay-Sauce."
+                },
+                {
+                    "type": "menu2",
+                    "title": "Rindfleisch-Geschnetzelt nach Szechuan Art mit chili und Lauch gewürzt."
+                },
+                {
+                    "type": "menu3",
+                    "title": "Knusprige grillierte Ente mit rotem Thai-Curry und Kokosmilch-Sauce."
+                }
+            ]
+        },
+        {
+            "day": "thursday",
+            "label": "Thursday",
+            "menus": [
+                {
+                    "type": "menu1",
+                    "title": "Poulet im Teig gebacken an hausgemachter süss-sauer Sauce."
+                },
+                {
+                    "type": "menu2",
+                    "title": "Rindfleisch-Geschnetzelt sautiert mit Erdnuss-Satay-Sauce."
+                },
+                {
+                    "type": "menu3",
+                    "title": "Knusprige grillierte Ente nach Szechuan Art mit Chili und Lauch gewürzt."
+                }
+            ]
+        },
+        {
+            "day": "friday",
+            "label": "Friday",
+            "menus": [
+                {
+                    "type": "menu1",
+                    "title": null
+                },
+                {
+                    "type": "menu2",
+                    "title": null
+                },
+                {
+                    "type": "menu3",
+                    "title": null
+                }
+            ]
+        }
+    ],
+    "additional": {
+        "headers": {
+            "titile": "Ach'i",
+            "subtitle": "Wochenmenü"
+        },
+        "drinkSurcharge": {
+            "text": "Mit alkoholfreiem Getränk",
+            "price": 2.5
+        },
+        "sideInfo": {
+            "text": "Alle Speisen werden mit gedämpftem Reis serviert."
+        }
+    }
+}
