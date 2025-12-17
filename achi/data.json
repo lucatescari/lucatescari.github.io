@@ -56,15 +56,15 @@
             "menus": [
                 {
                     "type": "menu1",
-                    "title": "Poulet-Geschnetzeltes sautiert mit Erdnuss-Satay-Sauce."
+                    "title": "Poulet-Geschnetzeltes nach Szechuan Art mit chinesischem Gemüse garniert und mit Chili und Lauch gewürzt."
                 },
                 {
                     "type": "menu2",
-                    "title": "Rindfleisch-Geschnetzelt nach Szechuan Art mit chili und Lauch gewürzt."
+                    "title": "Rindfleisch geschnetzelt mit Rotes Thai-Curry und Kokosmilch-Sauce."
                 },
                 {
                     "type": "menu3",
-                    "title": "Knusprige grillierte Ente mit rotem Thai-Curry und Kokosmilch-Sauce."
+                    "title": "Knusprige grillierte Ente mit Erdnuss-Satay-Sauce."
                 }
             ]
         },
