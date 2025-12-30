@@ -1,5 +1,13 @@
 [
   {
+    "location": "KIFF Aarau",
+    "name": "Support Rantanplan",
+    "link": "https://www.kiff.ch/programm/2026-01-16-rantanplan",
+    "date": "16-01-2026",
+    "actualDate": { "seconds": 1768597200, "nanoseconds": 0 },
+    "public": true
+  },
+  {
     "location": "Davos",
     "name": "25 Jahre Box Davos",
     "link": "https://www.boxdavos.ch/konzerte.html?fbclid=PAQ0xDSwLjcWdleHRuA2FlbQIxMQABp61gWi15ggNb13jaA4nMfV6o_yN_hEM9JMKZSikF4G5VjE-Ow7--dpTVxbSI_aem__2U-rOS2YXyPbGGczpkcig",
